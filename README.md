@@ -17,9 +17,6 @@ This project aims to predict student performance using machine learning techniqu
 1. Navigate to the project directory: `cd student-performance-prediction`
 2. Run the main script: `python main.py`
 
-## Documentation
-For detailed documentation and usage instructions, refer to the `docs` folder.
-
 ## Contributors
 - Vatsal Soni (@vatsal-19)
 
